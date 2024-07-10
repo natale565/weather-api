@@ -22,7 +22,7 @@ To run this project, navigate to: [Weather API]( https://natale565.github.io/wea
 
 # Screen Shots of web page
 
-![screenshot](/weather-api/assets/images/Screenshot%202024-07-09%20at%209.47.26 PM.png)
+![screenshot](assets/images/Screenshot%202024-07-09%20at%209.47.26 PM.png)
 
 
 ## Built With
